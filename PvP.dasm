@@ -36,7 +36,7 @@
 
 
                 processor 6502
-                include "VCS.H"
+                include "vcs.h"
                 include "macro.h"
 
 
